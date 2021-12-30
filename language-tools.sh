@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 set -x
 
 # Note: this doesn't do required path settings as they're in my bashrc already

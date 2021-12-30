@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Script to install some basic necessities.
 
 cd
